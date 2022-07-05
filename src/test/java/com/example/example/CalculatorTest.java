@@ -11,6 +11,7 @@ class CalculatorTest {
         Calculator calculator = new Calculator();
         assertThat(calculator.add(1,2)).isEqualTo(3);
 
+
     }
 
 }
